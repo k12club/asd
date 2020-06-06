@@ -1,0 +1,23 @@
+{
+  "name": "Overview - DevExtreme Vector Map",
+  "main": "src/app/app.component.ts",
+  "description": "DevExtreme HTML5 JavaScript Maps are two interactive Angular components for creating GPS navigation maps and vector maps in your app. The Map control works with Google Maps and Bing Maps API, supports multiple views and custom markers and routes. The Vector Map control comes with several predefined data sources, provides a variety of colorization modes, and supports multiple legends. Both the controls are interactive and highly customizable. Native Angular features, like AOT compilation, declarative configuration, TypeScript compile-time checking, are supported as well.\n",
+  "dependencies": {
+    "zone.js": "0.10.2",
+    "rxjs": "latest",
+    "quill": "1.3.7",
+    "jszip": "3.1.3",
+    "devextreme-angular": "20.1",
+    "devextreme": "20.1",
+    "devexpress-gantt": "1.0.3",
+    "devexpress-diagram": "1.0.5",
+    "core-js": "2.4.1",
+    "@angular/router": "8.0.0",
+    "@angular/platform-browser-dynamic": "8.0.0",
+    "@angular/platform-browser": "8.0.0",
+    "@angular/forms": "8.0.0",
+    "@angular/core": "8.0.0",
+    "@angular/compiler": "8.0.0",
+    "@angular/common": "8.0.0"
+  }
+}
